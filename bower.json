@@ -1,11 +1,11 @@
 {
-  "name": "tabSlideBox",
+  "name": "tabbedSlideBox",
   "version": "0.0.1",
   "homepage": "https://github.com/EkoAdiWijayanto/tabbedSlideBox",
   "authors": [
     "Tom Stones <tom@tomstones.com.au>"
   ],
-  "description": "ionic tabSlideBox",
+  "description": "ionic tabbedSlideBox",
   "main": [
     "tabSlideBox/tabSlideBox.css",
     "tabSlideBox/tabSlideBox.js"

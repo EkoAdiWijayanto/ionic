@@ -7,8 +7,8 @@
   ],
   "description": "tabbedSlideBox",
   "main": [
-    "tabSlideBox/tabSlideBox.css",
-    "tabSlideBox/tabSlideBox.js"
+    "tabbedSlideBox/tabSlideBox.css",
+    "tabbedSlideBox/tabSlideBox.js"
   ],
   "keywords": [
     "ionic",

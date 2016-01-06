@@ -5,7 +5,7 @@
   "authors": [
     "Tom Stones <tom@tomstones.com.au>"
   ],
-  "description": "ionic tabbedSlideBox",
+  "description": "tabbedSlideBox",
   "main": [
     "tabSlideBox/tabSlideBox.css",
     "tabSlideBox/tabSlideBox.js"
